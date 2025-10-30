@@ -1,0 +1,46 @@
+
+#include<stdio.h>
+int main(){
+    int a,b;
+    scanf("%d%d",&a,&b);
+    printf("%d\n",a+b);
+    printf("%d\n",a-b);
+    printf("%d\n",a*b);
+    printf("%d\n",a/b); 
+    printf("%d\n",a%b);
+    return 0;
+}.                                                     Q2.                                      #include<stdio.h>
+int main(){
+    int a, b, temp;
+    scanf("%d%d", &a, &b);
+    temp = a;
+    a = b;
+    b = temp;
+    printf("%d%d", a, b);
+    return 0;
+}.                                            Q3.                                           #include<stdio.h>
+int main(){
+    int n, lastDigit, exceptLast;
+    scanf("%d", &n);
+    lastDigit = n % 10;
+    exceptLast = n / 10;
+    printf("%d\n", lastDigit);
+    printf(" %d\n", exceptLast);
+    return 0;
+}                                            Q4.                                            #include<stdio.h>
+int main(){
+    int a, b;
+    scanf("%d%d", &a, &b);
+    a = a + b;
+    b = a - b;
+    a = a - b;
+    printf( a = %d%d", a, b);
+    return 0;
+}                                            Q5.                                         #include<stdio.h>
+int main(){
+    int n;
+    scanf("%d", &n);
+    printf("%d", n * n);
+    printf("%d", n * n * n);
+    return 0;
+}
