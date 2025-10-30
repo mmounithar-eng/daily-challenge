@@ -23,4 +23,7 @@ Q4.Write C Program to print the last digit and all digits Except last digit of g
 Q5.Write a C Program to print the square and cube of a given number.                day4:                                      Q1.Write a C Program to calculate the average of three numbers.
 Q2.Write a C Program to check whether two numbers are equal True if equal else False.
 Q3.Write a C Program to print whether a number is positive or negative.
-Q4.Write a C Program to find the greatest of three numbers. 
+Q4.Write a C Program to find the greatest of three numbers.                           day5.                                          Q1.Write a C Program to print pass/fail result based on marks.
+Q2.Write a C Program to find area of Rectangle, Square, triangle and circle.
+Q3.Write a C Program to find the distance between two points.
+Q4.Write a C Program to Calculate Simple Interest. 
